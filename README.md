@@ -33,6 +33,11 @@
         굉스터
       </a>
     </td>
+     <td align="center">
+      <a href="https://github.com/devchaeyoung" target="_blank">
+        진채영
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/##" target="_blank">
         ##
