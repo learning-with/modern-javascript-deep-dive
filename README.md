@@ -17,6 +17,11 @@
       </a>
     </td>
     <td align="center" width="92px">
+      <a href="https://github.com/devchaeyoung target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/124546770?v=4" alt="진채영 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
       <a href="https://github.com/###" target="_blank">
         <img src="###" alt="## 프로필" />
       </a>
