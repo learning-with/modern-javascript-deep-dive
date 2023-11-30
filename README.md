@@ -22,6 +22,11 @@
       </a>
     </td>
     <td align="center" width="92px">
+      <a href="https://github.com/he110-wOrld" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/149081637?v=4" alt="징징 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
       <a href="https://github.com/###" target="_blank">
         <img src="###" alt="## 프로필" />
       </a>
@@ -41,6 +46,11 @@
      <td align="center">
       <a href="https://github.com/devchaeyoung" target="_blank">
         진채영
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/he110-wOrld" target="_blank">
+        징징
       </a>
     </td>
     <td align="center">
