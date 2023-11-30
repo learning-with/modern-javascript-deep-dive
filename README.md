@@ -12,6 +12,11 @@
       </a>
     </td>
     <td align="center" width="92px">
+      <a href="https://github.com/hyeb-in" target="_blank">
+        <img src="https://github.com/learning-with/learning-js/assets/101353408/9d690924-d984-4eca-a5c8-45872a7344ca" alt="굉스터 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
       <a href="https://github.com/###" target="_blank">
         <img src="###" alt="## 프로필" />
       </a>
@@ -21,6 +26,11 @@
     <td align="center">
       <a href="https://github.com/a-honey" target="_blank">
         마님
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hyeb-in" target="_blank">
+        굉스터
       </a>
     </td>
     <td align="center">
