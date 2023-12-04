@@ -1,0 +1,14 @@
+name: PR auto merge
+on:
+  schedule:
+    - cron: '0 0 * * 5'
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: automerge
+        uses: "pascalgn/automerge-action@v0.15.6"
+        env:
+          MERGE_LABELS: ""
+          MERGE_METHOD: "squash"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
