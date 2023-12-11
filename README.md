@@ -25,18 +25,13 @@
       </a>
     </td>
     <td align="center" width="92px">
-      <a href="https://github.com/he110-wOrld" target="_blank">
+      <a href="https://github.com/LCGechk0311" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/149081637?v=4" alt="징징 프로필" />
       </a>
     </td>
         <td align="center" width="92px">
       <a href="https://github.com/he110-wOrld" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/134676310?s=400&u=34078b40b72196dac4999fd8c15d084a73b691a2&v=4" alt="지호 프로필" />
-      </a>
-    </td>
-    <td align="center" width="92px">
-      <a href="https://github.com/###" target="_blank">
-        <img src="###" alt="## 프로필" />
       </a>
     </td>
   </tr>
@@ -57,19 +52,14 @@
       </a>
     </td>
      <td align="center">
-      <a href="https://github.com/he110-wOrld" target="_blank">
-        징징
+      <a href="https://github.com/LCGechk0311" target="_blank">
+        창근
       </a>
     </td>
         </td>
      <td align="center">
       <a href="https://github.com/ji-hoood" target="_blank">
         지호
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/##" target="_blank">
-        ##
       </a>
     </td>
   </tr>
